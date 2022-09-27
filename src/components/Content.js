@@ -9,7 +9,6 @@ import { Routes, Route } from "react-router-dom";
 function Content() {
   return (
     <div id="content">
-      Content
       <Routes>
         <Route path="/about-me" element={<AboutMe />} />
         <Route path="/portfolio" element={<Portfolio />} />
