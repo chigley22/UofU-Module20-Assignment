@@ -1,0 +1,8 @@
+#header {
+    height: 70px;
+    background-color: aqua;
+}
+
+#linkWrapper a{
+    margin: 0 20px;
+}
