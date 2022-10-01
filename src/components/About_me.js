@@ -6,7 +6,7 @@ function AboutMe() {
   return (
     <div id="aboutMe">
       <h1>About Me:</h1>
-      <img src={aboutME} alt="Colton Higley" />
+      <img src={aboutME} width="400" height="400" alt="Colton Higley" />
       <p>
         This is just a place holder. Future development I will add in actual
         about me information.
