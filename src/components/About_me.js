@@ -1,11 +1,12 @@
 import React from "react";
 import "../assets/styles/About_me.css";
+import aboutME from "../assets/aboutmeimage.jpg";
 
 function AboutMe() {
   return (
     <div id="aboutMe">
       <h1>About Me:</h1>
-      <img class="mb-5" src="../assets/aboutmeimage.jpg" alt="Colton Higley" />
+      <img src={aboutME} alt="Colton Higley" />
       <p>
         This is just a place holder. Future development I will add in actual
         about me information.

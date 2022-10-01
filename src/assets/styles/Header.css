@@ -9,6 +9,7 @@
 }
 
 #headerTitle {
-    position:fixed;
+    position:relative;
+    text-align: left;
     font-family: 'Noto Sans Mono', monospace;
 }

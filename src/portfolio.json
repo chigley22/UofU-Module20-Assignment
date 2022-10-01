@@ -2,42 +2,42 @@
     {
         "id": 1,
         "name": "Weather Dashboard",
-        "image": "./assets/weatherdashboard.png",
+        "image": "https://raw.githubusercontent.com/chigley22/UofU-Module20-Assignment/main/src/assets/weatherdashboard.png",
         "github": "https://github.com/chigley22/UofU-Module6-Assignment",
         "deployed": "https://chigley22.github.io/UofU-Week6-Assignment/" 
     },
     {
         "id": 2,
         "name": "Weather Dashboard",
-        "image": "./assets/weatherdashboard.png",
+        "image": "https://raw.githubusercontent.com/chigley22/UofU-Module20-Assignment/main/src/assets/weatherdashboard.png",
         "github": "https://github.com/chigley22/UofU-Module6-Assignment",
         "deployed": "https://chigley22.github.io/UofU-Week6-Assignment/" 
     },
     {
         "id": 3,
         "name": "Weather Dashboard",
-        "image": "./assets/weatherdashboard.png",
+        "image": "https://raw.githubusercontent.com/chigley22/UofU-Module20-Assignment/main/src/assets/weatherdashboard.png",
         "github": "https://github.com/chigley22/UofU-Module6-Assignment",
         "deployed": "https://chigley22.github.io/UofU-Week6-Assignment/" 
     },
     {
         "id": 4,
         "name": "Weather Dashboard",
-        "image": "./assets/weatherdashboard.png",
+        "image": "https://raw.githubusercontent.com/chigley22/UofU-Module20-Assignment/main/src/assets/weatherdashboard.png",
         "github": "https://github.com/chigley22/UofU-Module6-Assignment",
         "deployed": "https://chigley22.github.io/UofU-Week6-Assignment/" 
     },
     {
         "id": 5,
         "name": "Weather Dashboard",
-        "image": "./assets/weatherdashboard.png",
+        "image": "https://raw.githubusercontent.com/chigley22/UofU-Module20-Assignment/main/src/assets/weatherdashboard.png",
         "github": "https://github.com/chigley22/UofU-Module6-Assignment",
         "deployed": "https://chigley22.github.io/UofU-Week6-Assignment/" 
     },
     {
         "id": 6,
         "name": "Weather Dashboard",
-        "image": "./assets/weatherdashboard.png",
+        "image": "https://raw.githubusercontent.com/chigley22/UofU-Module20-Assignment/main/src/assets/weatherdashboard.png",
         "github": "https://github.com/chigley22/UofU-Module6-Assignment",
         "deployed": "https://chigley22.github.io/UofU-Week6-Assignment/" 
     }

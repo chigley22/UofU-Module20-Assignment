@@ -1,4 +1,42 @@
 #portfolio {
-    min-height: calc(100vh - 140px);
-    background-color: white;
+    min-height: calc(100vh - 140px);    
+}
+
+.card {
+    border-radius: 5px;
+    height: 300px;
+    margin: 2rem;
+    position: relative;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.card .img-container {
+    height: 75%;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card .img-container img {
+    width: 100%;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+.card .content {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+#card-title {
+    margin-top: 10px;
+}
+#topics {
+    font-size: small;
+    font-style: italic;
+}
+#project-icon {
+    padding: 5px;
 }
