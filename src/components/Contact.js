@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../assets/styles/Contact.css";
 
-const FORM_ENDPOINT = ""; // TODO - fill on the later step
+const FORM_ENDPOINT = "cman_hig@hotmail.com"; // TODO - fill on the later step
 
 const Contact = () => {
   const [submitted, setSubmitted] = useState(false);

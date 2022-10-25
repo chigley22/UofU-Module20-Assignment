@@ -15,17 +15,17 @@
     },
     {
         "id": 3,
-        "name": "Weather Dashboard",
-        "image": "https://raw.githubusercontent.com/chigley22/UofU-Module20-Assignment/main/src/assets/weatherdashboard.png",
-        "github": "https://github.com/chigley22/UofU-Module6-Assignment",
-        "deployed": "https://chigley22.github.io/UofU-Week6-Assignment/" 
+        "name": "Technically Speaking Blog",
+        "image": "https://github.com/chigley22/UofU-Module14-RedoAssignment/raw/main/assets/techblogscreenshot.png",
+        "github": "https://github.com/chigley22/UofU-Module14-RedoAssignment",
+        "deployed": "https://young-garden-60735.herokuapp.com/" 
     },
     {
         "id": 4,
-        "name": "Weather Dashboard",
-        "image": "https://raw.githubusercontent.com/chigley22/UofU-Module20-Assignment/main/src/assets/weatherdashboard.png",
-        "github": "https://github.com/chigley22/UofU-Module6-Assignment",
-        "deployed": "https://chigley22.github.io/UofU-Week6-Assignment/" 
+        "name": "Note Taker",
+        "image": "https://github.com/chigley22/UofU-Module11-NoteTaker/raw/main/assets/notetakerscreenshot.png",
+        "github": "https://github.com/chigley22/UofU-Module11-NoteTaker",
+        "deployed": "https://uofunotetaker.herokuapp.com/" 
     },
     {
         "id": 5,
