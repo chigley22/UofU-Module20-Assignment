@@ -9,7 +9,7 @@
     {
         "id": 2,
         "name": "Book Search",
-        "image": "https://raw.githubusercontent.com/chigley22/UofU-Module20-Assignment/main/src/assets/weatherdashboard.png",
+        "image": "https://github.com/chigley22/UofU-Module21-Assignment/raw/main/assets/booksearch.png",
         "github": "https://github.com/chigley22/UofU-Module21-Assignment",
         "deployed": "https://book-search-uofu.herokuapp.com/" 
     },
