@@ -8,21 +8,14 @@ function AboutMe() {
       <h1>About Me:</h1>
       <img src={aboutME} width="400" height="400" alt="Colton Higley" />
       <p>
-        This is just a place holder. Future development I will add in actual
-        about me information.
+        
       </p>
       <p>
-        sale headlines attempted report clark pattern obtaining councils
-        engagement view under nasa composition assist trains nurse looks tooth
-        wrapping hotmail delivered nevertheless decorating launch matter beast
-        coffee clothing it bond totals nipples streaming vacancies preferred
-        jesus gain uruguay parameters acoustic aid airport stripes broke
-        security glad technology twist mounting pi involve burn consider vinyl
-        conferences opera figures spend films crime country auditor masters bus
-        municipality graphs capability job spotlight eyed larger concepts
-        ensuring manufacturer chance antiques bearing reflection remain utility
-        radical totally deposits urge martha virtual egyptian reads dying
-        license js tsunami persistent routine
+      Recent graduate of the University of Utah Full Stack Web Developer
+Bootcamp. Currently studying Bachelor of Information Technology at
+Strayer University. As a dedicated problem solver I am excited to use my
+analytical and technical skills to continue learning and thrive as an entry-level developer.
+
       </p>
     </div>
   );
