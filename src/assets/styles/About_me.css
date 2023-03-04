@@ -3,3 +3,8 @@
     background-color: white;
     font-family: 'Noto Sans Mono', monospace;
 }
+
+#aboutMeText {
+    margin-left: 15rem;
+    margin-right: 15rem;
+}

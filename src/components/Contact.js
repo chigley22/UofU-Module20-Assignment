@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../assets/styles/Contact.css";
 
-const FORM_ENDPOINT = "cman_hig@hotmail.com"; // TODO - fill on the later step
+const FORM_ENDPOINT = "server URL"; // TODO - fill on the later step
 
 const Contact = () => {
   const [submitted, setSubmitted] = useState(false);
@@ -15,7 +15,7 @@ const Contact = () => {
     return (
       <>
         <div className="text-2xl">Thank you!</div>
-        <div className="text-md">We'll be in touch soon.</div>
+        <div className="text-md">I look forward to connecting with you.</div>
       </>
     );
   }
@@ -25,7 +25,7 @@ const Contact = () => {
       action={FORM_ENDPOINT}
       onSubmit={handleSubmit}
       method="POST"
-      target="_blank"
+      target="cman_hig@hotmail.com"
     >
       <div className="mb-3 pt-0">
         <input

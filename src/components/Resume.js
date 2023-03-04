@@ -1,6 +1,6 @@
 import React from "react";
 import "../assets/styles/Resume.css";
-import pdf from "../assets/resume.pdf";
+import pdf from "../assets/styles/ColtonResume1.pdf";
 
 function Resume() {
   return (
